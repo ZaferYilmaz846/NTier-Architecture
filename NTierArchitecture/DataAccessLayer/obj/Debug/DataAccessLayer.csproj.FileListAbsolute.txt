@@ -1,0 +1,14 @@
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\Model.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\Model.pdb
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Zafer\Desktop\C# Çalışmaları\Github\NTierArchitecture\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
